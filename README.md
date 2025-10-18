@@ -3,7 +3,7 @@
 - 👀 Passionate about learning new technologies and solving real-world problems  
 - 🌱 Currently diving into Full Stack Development  
 - 💞️ Open to collaborating on Data Structures and Algorithms (DSA) projects  
-- 📫 Reach me at: tomhollderdgl53@gmail.com  
+- 📫 Reach me at: mohankumarofficial06@gmail.com
 - ⚡ Fun fact: I believe in living life to the fullest!
 
 <!---
