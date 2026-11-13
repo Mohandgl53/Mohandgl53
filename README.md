@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mohan Kumar T
 
 **Full Stack Developer**  
-- 🌐 Here’s my [portfolio](https://mohandgl53.github.io/Portfolio/)
+- 🌐 Here’s my [portfolio](https://mohan-kumar53-portfolio.vercel.app/)
 - 👀 Passionate about learning new technologies and solving real-world problems  
 - 🤖 I’m currently learning and integrating AI into my projects  
 - 🛠️ Skilled in MERN stack (MongoDB, Express, React, Node.js)
